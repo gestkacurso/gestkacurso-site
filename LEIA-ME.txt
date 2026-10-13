@@ -1,0 +1,15 @@
+SITE GESTKA — COMO USAR
+
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador para visualizar o site localmente.
+3. Para publicar, envie a pasta inteira (index.html e assets/) para a hospedagem do seu site, mantendo a estrutura das pastas.
+4. Contatos incluídos:
+   E-mail: gestkacurso@gmail.com
+   Instagram: https://www.instagram.com/gestorkayooliveira/
+   WhatsApp: https://wa.me/5581995118178
+
+IMPORTANTE:
+- Este pacote é um site institucional estático responsivo. As imagens enviadas foram incluídas e usadas no site.
+- O formulário prepara a mensagem e abre o WhatsApp; não grava dados em banco e não envia e-mail automaticamente.
+- Matrículas com acompanhamento, painel administrativo, autenticação, CRM, banco de dados, pagamentos e e-mails automáticos exigem backend e configuração de serviços externos antes de produção.
+- Confirme carga horária, valores, credenciais e detalhes dos cursos antes de publicar.
